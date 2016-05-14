@@ -22,7 +22,7 @@ $script = <<SCRIPT
   echo Login: oscardoc PASSWORD: mac2002 2ndPASSWORD: 1117
   echo ---------------------------------------------------------
   echo Access OpenMRS at http://localhost:8001/openmrs
-  echo mysql password: mysql) (login:admin password:Admin123)
+  echo mysql password: mysql login:admin password:Admin123
   echo ---------------------------------------------------------
   echo Please visit nuchange.ca for further info.
 
