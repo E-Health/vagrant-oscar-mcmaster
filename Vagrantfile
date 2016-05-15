@@ -63,7 +63,7 @@ Vagrant.configure("2") do |config|
   #config.vm.network :private_network, ip: "192.168.40.10"
 
   config.vm.provider "virtualbox" do |v|
-    v.name = "ehealth"
+    v.name = "oscar"
     v.customize [
        "modifyvm", :id,
        "--name", "oscar",
