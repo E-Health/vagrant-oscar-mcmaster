@@ -25,7 +25,7 @@ $script = <<SCRIPT
   echo Login:admin password:Admin123
   echo ---------------------------------------------------------
   echo Access MySQL database at "mysql -u root -p"
-  echo User: root password: mysql
+  echo password: mysql
   echo ---------------------------------------------------------
   echo Please visit nuchange.ca for further info.
 
