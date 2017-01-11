@@ -11,7 +11,7 @@ $script = <<SCRIPT
 
   #restarting tomcat
   echo Restarting Tomcat Server...
-  /etc/init.d/tomcat6 restart
+  service tomcat6 restart
 
   #Final Messages
   echo ---------------------------------------------------------
