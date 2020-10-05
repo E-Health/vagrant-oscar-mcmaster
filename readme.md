@@ -46,12 +46,13 @@ vagrant up
 ### Disclaimer
 This is for testing only. Not suitable for production.
 
-### For more information visit [NuChange Blog](http://nuchange.ca)
+### Contributors
+<a href="https://github.com/E-Health/vagrant-oscar-mcmaster/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=E-Health/vagrant-oscar-mcmaster" />
+</a>
 
-### Contact Us on the IRC Channel ##ehealth 
-[![Visit our IRC channel](https://kiwiirc.com/buttons/irc.freenode.net/ehealth.png)](https://kiwiirc.com/client/irc.freenode.net/?nick=nuchange|?##ehealth)
+Made with [contributors-img](https://contributors-img.web.app).
 
-### Contribute
 pull-requests welcome
 
 
